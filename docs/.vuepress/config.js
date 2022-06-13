@@ -1,5 +1,5 @@
 module.exports = {
-  base:"/MyBlog/",
+  base:"/SingBlog/",
   title: "Singfong's Blog",
   description: "Welcome My Blog !",
   port: "8080",
